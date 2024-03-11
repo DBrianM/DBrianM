@@ -5,8 +5,6 @@ I'm a tech enthusiast and passionate about developing innovative solutions. My e
 🔭 I’m currently working on Smart Transport Management System
 🌱 I’m currently learning python and dart with flutter
 🤔 I’m looking for help with Digital Forensics and Cybersecurity
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
-https://github-readme-stats.vercel.app/api?username=DBrianM&show_icons=true&theme=radical
 
 <!--
 **DBrianM/DBrianM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
