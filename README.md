@@ -3,7 +3,7 @@ I'm a tech enthusiast and passionate about developing innovative solutions. My e
 
 👌Programming Languages: C, C++, Java, HTML, CSS, JavaScript
 🔭 I’m currently working on Smart Transport Management System
-🌱 I’m currently learning python and dart with flutter
+🌱 I’m currently learning python 
 🤔 I’m looking for help with Digital Forensics and Cybersecurity
 
 <!--
