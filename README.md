@@ -2,8 +2,7 @@
 I'm a tech enthusiast and passionate about developing innovative solutions. My expertise includes C, C++, Java, HTML, CSS, JavaScript, and digital forensics.
 
 👌Programming Languages: C, C++, Java, HTML, CSS, JavaScript
-🔭 I’m currently working on Smart Transport Management System
-🌱 I’m currently learning python 
+🌱 I’m continously learning new technologies 
 🤔 I’m looking for help with Digital Forensics and Cybersecurity
 
 <!--
